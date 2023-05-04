@@ -1,0 +1,17 @@
+/* .container {
+    background-color: lightblue;
+
+  } */
+  
+  .text {
+    font-weight: bold;
+  }
+
+  .header {
+    padding: 50px;
+    background-color: rgb(138, 195, 147);
+    text-align: center;
+    font-size: 30px;
+
+    
+}
