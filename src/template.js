@@ -12,7 +12,7 @@ const generateCards = (teamArray) => {
                 </div>
                 <ul class="list-group list-group-flush">
                   <li class="list-group-item">ID: ${employee.getID()}</li>
-                  <li class="list-group-item">Email: ${employee.getEmail()} </li>
+                  <li class="list-group-item">Email:<a href="mailto:">${employee.getEmail()}</a></li>
                   <li class="list-group-item">Office Number: ${employee.getOfficeNumber()}</li>
                 </ul>
               </div>
@@ -26,8 +26,8 @@ const generateCards = (teamArray) => {
                 </div>
                 <ul class="list-group list-group-flush">
                   <li class="list-group-item">ID: ${employee.getID()}</li>
-                  <li class="list-group-item">Email: ${employee.getEmail()} </li>
-                  <li class="list-group-item">Github: ${employee.getGithub()}</li>
+                  <li class="list-group-item">Email: <a href="mailto:">${employee.getEmail()}</a> </li>
+                  <li class="list-group-item">Github: <a href="mailto:">${employee.getGithub()}</a></li>
                 </ul>
               </div>
                 `
@@ -40,7 +40,7 @@ const generateCards = (teamArray) => {
                 </div>
                 <ul class="list-group list-group-flush">
                   <li class="list-group-item">ID: ${employee.getID()}</li>
-                  <li class="list-group-item">Email: ${employee.getEmail()} </li>
+                  <li class="list-group-item">Email:<a href="mailto:">${employee.getEmail()}</a></li>
                   <li class="list-group-item">School name: ${employee.getSchool()}</li>
                 </ul>
               </div>
