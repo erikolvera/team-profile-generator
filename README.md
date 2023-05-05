@@ -4,7 +4,6 @@ Using this application, you can make a quick and easy html file to make your own
 
 ## Table of Contents
 
-- [Team Profile Generator](#team-profile-generator)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Usage](#usage)
