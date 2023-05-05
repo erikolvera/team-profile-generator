@@ -20,10 +20,16 @@ Using this application, you can make a quick and easy html file to make your own
 
 ## Usage
 Screenshot
-![Alt text](../../Desktop/team-profile-generator-ss.png)
+<img width="726" alt="team-profile-generator-ss" src="https://user-images.githubusercontent.com/118490997/236382127-65ec3a42-aa9b-4bc6-9b79-0e3d39f98e26.png">
 
-How it should look
-[label](../../Desktop/team-profile-generator-demo.mov)
+
+
+How it should run
+
+
+https://user-images.githubusercontent.com/118490997/236382159-ef449e52-9229-463a-afae-1d6e92fab85c.mov
+
+
 
 
 
